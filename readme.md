@@ -1,4 +1,5 @@
 1 - Compilation and running:
+
     make sure that the three scripts: compile.sh, clean.sh and run_both are given execute permissions
     if one of them doesn't work use ./X.sh instead of bash X.sh  
 
@@ -24,6 +25,7 @@
 
 
 2 - Runtime:
+
     2.1 - Controls:
             1 - play the video, on by default
 
@@ -43,6 +45,7 @@
 
 
 3 - Extras:
+
         header.cpp :: debug can be turned off to stop the client and server from displaying messages on the standard output
 
         the server uses the IP 127.0.10.1 and ports 20000/20001

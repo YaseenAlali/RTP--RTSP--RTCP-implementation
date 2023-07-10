@@ -1,3 +1,5 @@
+Low level C++ implementation of popular real time streaming protocols, Runs on linux 
+
 1 - Compilation and running:
 
     make sure that the three scripts: compile.sh, clean.sh and run_both are given execute permissions
